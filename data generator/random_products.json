@@ -1,0 +1,1702 @@
+[
+    {
+        "id": 0,
+        "name": "Laptop 1",
+        "price": 577.02,
+        "desc": "Laptop 1 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 4.71,
+        "image_link": "Electronics/Laptop/Firefly laptop product 2870.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Rainwater Collector 1",
+        "price": 87.14,
+        "desc": "Rainwater Collector 1 is durable.",
+        "cat": "Home & Garden",
+        "qty": 1,
+        "rating": 2.57,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 66810.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Barbecue Grill 1",
+        "price": 190.9,
+        "desc": "Barbecue Grill 1 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 6,
+        "rating": 3.79,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill 19234.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Trousers 1",
+        "price": 47.29,
+        "desc": "Trousers 1 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 3.79,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 48740.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Shoes 1",
+        "price": 45.37,
+        "desc": "Shoes 1 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 3.12,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rainwater Collector 2",
+        "price": 85.94,
+        "desc": "Rainwater Collector 2 is durable.",
+        "cat": "Home & Garden",
+        "qty": 5,
+        "rating": 3.12,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 29459.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shampoo 1",
+        "price": 34.91,
+        "desc": "Shampoo 1 is luxurious and is on sale.",
+        "cat": "Beauty",
+        "qty": 0,
+        "rating": 1.64,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 28122.jpg"
+    },
+    {
+        "id": 7,
+        "name": "T-shirt 1",
+        "price": 13.68,
+        "desc": "T-shirt 1 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 9,
+        "rating": 4.9,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 48740.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Tabletop Game 1",
+        "price": 116.28,
+        "desc": "Tabletop Game 1 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 9,
+        "rating": 4.81,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 96862.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Shower Gel 1",
+        "price": 5.66,
+        "desc": "Shower Gel 1 is natural and is on sale.",
+        "cat": "Beauty",
+        "qty": 8,
+        "rating": 2.07,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 28122.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Flower Pot 1",
+        "price": 7.95,
+        "desc": "Flower Pot 1 is reliable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 2,
+        "rating": 2.9,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Action Figure 1",
+        "price": 19.2,
+        "desc": "Action Figure 1 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 2,
+        "rating": 1.76,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 94736.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Shoes 2",
+        "price": 70.6,
+        "desc": "Shoes 2 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 3.32,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 52602.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Action Figure 2",
+        "price": 10.35,
+        "desc": "Action Figure 2 is fun for children.",
+        "cat": "Toys",
+        "qty": 3,
+        "rating": 4.72,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 94736.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Flower Pot 2",
+        "price": 26.32,
+        "desc": "Flower Pot 2 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 0,
+        "rating": 2.09,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 15,
+        "name": "T-shirt 2",
+        "price": 18.91,
+        "desc": "T-shirt 2 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 9,
+        "rating": 2.55,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 48740.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Desktop PC 1",
+        "price": 2776.6,
+        "desc": "Desktop PC 1 is innovative and has a compact design.",
+        "cat": "Electronics",
+        "qty": 10,
+        "rating": 3.26,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 34169.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Television 1",
+        "price": 674.48,
+        "desc": "Television 1 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 10,
+        "rating": 2.34,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 69828.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Jacket 1",
+        "price": 82.14,
+        "desc": "Jacket 1 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 7,
+        "rating": 4.4,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 52602.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Action Figure 3",
+        "price": 8.51,
+        "desc": "Action Figure 3 is educational.",
+        "cat": "Toys",
+        "qty": 2,
+        "rating": 4.21,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 94736.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Trousers 2",
+        "price": 53.24,
+        "desc": "Trousers 2 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 5,
+        "rating": 4.63,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 52602.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Laptop 2",
+        "price": 708.36,
+        "desc": "Laptop 2 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 3,
+        "rating": 1.71,
+        "image_link": "Electronics/Laptop/Firefly laptop product 23942.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Action Figure 4",
+        "price": 8.93,
+        "desc": "Action Figure 4 is educational and is on sale.",
+        "cat": "Toys",
+        "qty": 2,
+        "rating": 4.36,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 81380.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Shower Gel 2",
+        "price": 9.61,
+        "desc": "Shower Gel 2 is luxurious.",
+        "cat": "Beauty",
+        "qty": 4,
+        "rating": 3.58,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 25281.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Doll 1",
+        "price": 12.56,
+        "desc": "Doll 1 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 3,
+        "rating": 2.29,
+        "image_link": "Toys/Doll/Firefly doll 94736.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Laptop 3",
+        "price": 1286.29,
+        "desc": "Laptop 3 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 3.13,
+        "image_link": "Electronics/Laptop/Firefly laptop product 23942.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Doll 2",
+        "price": 9.53,
+        "desc": "Doll 2 is creative.",
+        "cat": "Toys",
+        "qty": 2,
+        "rating": 4.59,
+        "image_link": "Toys/Doll/Firefly doll 81380.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Action Figure 5",
+        "price": 19.62,
+        "desc": "Action Figure 5 is fun for children.",
+        "cat": "Toys",
+        "qty": 10,
+        "rating": 1.35,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 53777.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Jacket 2",
+        "price": 200.87,
+        "desc": "Jacket 2 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 1,
+        "rating": 3.88,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 28122.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Shoes 3",
+        "price": 69.36,
+        "desc": "Shoes 3 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 5,
+        "rating": 2.51,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 25281.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Tabletop Game 2",
+        "price": 87.72,
+        "desc": "Tabletop Game 2 is creative.",
+        "cat": "Toys",
+        "qty": 9,
+        "rating": 3.07,
+        "image_link": "Toys/Tabletop Game/Firefly strategy board game 50247.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Flower Pot 3",
+        "price": 16.85,
+        "desc": "Flower Pot 3 is durable.",
+        "cat": "Home & Garden",
+        "qty": 4,
+        "rating": 2.94,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Laptop 4",
+        "price": 2087.08,
+        "desc": "Laptop 4 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 0,
+        "rating": 2.42,
+        "image_link": "Electronics/Laptop/Firefly laptop product 59061.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Trousers 3",
+        "price": 37.37,
+        "desc": "Trousers 3 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 3,
+        "rating": 4.34,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 52602.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Mobile Phone 1",
+        "price": 1653.99,
+        "desc": "Mobile Phone 1 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 4.59,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 26919.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Rainwater Collector 3",
+        "price": 60.41,
+        "desc": "Rainwater Collector 3 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 5,
+        "rating": 1.74,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 66810.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Tabletop Game 3",
+        "price": 75.46,
+        "desc": "Tabletop Game 3 is creative and is on sale.",
+        "cat": "Toys",
+        "qty": 5,
+        "rating": 1.06,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 96862.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Barbecue Grill 2",
+        "price": 471.77,
+        "desc": "Barbecue Grill 2 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 9,
+        "rating": 3.14,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 29459.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Shampoo 2",
+        "price": 6.94,
+        "desc": "Shampoo 2 is effective.",
+        "cat": "Beauty",
+        "qty": 0,
+        "rating": 3.12,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 81564.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Deodorant 1",
+        "price": 9.81,
+        "desc": "Deodorant 1 is luxurious.",
+        "cat": "Beauty",
+        "qty": 9,
+        "rating": 4.95,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 52602.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Barbecue Grill 3",
+        "price": 987.43,
+        "desc": "Barbecue Grill 3 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 1,
+        "rating": 3.44,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 29459.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Doll 3",
+        "price": 9.16,
+        "desc": "Doll 3 is creative.",
+        "cat": "Toys",
+        "qty": 6,
+        "rating": 1.58,
+        "image_link": "Toys/Doll/Firefly doll 53777.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Flower Pot 4",
+        "price": 6.95,
+        "desc": "Flower Pot 4 is award-winning and is on sale",
+        "cat": "Home & Garden",
+        "qty": 1,
+        "rating": 3.98,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 66810.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Trousers 4",
+        "price": 56.63,
+        "desc": "Trousers 4 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 1.71,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 28122.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Action Figure 6",
+        "price": 2.03,
+        "desc": "Action Figure 6 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 0,
+        "rating": 2.06,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 81380.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Tabletop Game 4",
+        "price": 91.07,
+        "desc": "Tabletop Game 4 is educational.",
+        "cat": "Toys",
+        "qty": 7,
+        "rating": 1.29,
+        "image_link": "Toys/Tabletop Game/Firefly strategy board game 50247.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Shampoo 3",
+        "price": 19.1,
+        "desc": "Shampoo 3 is natural.",
+        "cat": "Beauty",
+        "qty": 8,
+        "rating": 4.27,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 25281.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Shower Gel 3",
+        "price": 3.74,
+        "desc": "Shower Gel 3 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 5,
+        "rating": 4.77,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 28122.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Action Figure 7",
+        "price": 7.85,
+        "desc": "Action Figure 7 is educational.",
+        "cat": "Toys",
+        "qty": 7,
+        "rating": 4.98,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 94736.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Deodorant 2",
+        "price": 6.87,
+        "desc": "Deodorant 2 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 1,
+        "rating": 3.37,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 28122.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Rainwater Collector 4",
+        "price": 67.77,
+        "desc": "Rainwater Collector 4 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 7,
+        "rating": 1.03,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 29459.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Barbecue Grill 4",
+        "price": 1097.75,
+        "desc": "Barbecue Grill 4 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 1,
+        "rating": 4.57,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 40647.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Trousers 5",
+        "price": 73.77,
+        "desc": "Trousers 5 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 4.13,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 81564.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Jacket 3",
+        "price": 32.9,
+        "desc": "Jacket 3 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 10,
+        "rating": 1.59,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 25281.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Rainwater Collector 5",
+        "price": 67.84,
+        "desc": "Rainwater Collector 5 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 3,
+        "rating": 3.18,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 40647.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Desktop PC 2",
+        "price": 2720.46,
+        "desc": "Desktop PC 2 is high-end and has a compact design.",
+        "cat": "Electronics",
+        "qty": 3,
+        "rating": 3.68,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 80376.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Doll 4",
+        "price": 19.88,
+        "desc": "Doll 4 is creative and is on sale.",
+        "cat": "Toys",
+        "qty": 1,
+        "rating": 2.63,
+        "image_link": "Toys/Doll/Firefly doll 96862.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Deodorant 3",
+        "price": 7.41,
+        "desc": "Deodorant 3 is luxurious.",
+        "cat": "Beauty",
+        "qty": 1,
+        "rating": 4.5,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 81564.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Mobile Phone 2",
+        "price": 1200.22,
+        "desc": "Mobile Phone 2 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 4.31,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 26919.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Rainwater Collector 6",
+        "price": 61.86,
+        "desc": "Rainwater Collector 6 is durable.",
+        "cat": "Home & Garden",
+        "qty": 4,
+        "rating": 2.76,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 40647.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Shampoo 4",
+        "price": 9.26,
+        "desc": "Shampoo 4 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 2,
+        "rating": 3.58,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 81564.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Trousers 6",
+        "price": 27.19,
+        "desc": "Trousers 6 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 3,
+        "rating": 1.22,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 81564.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Rainwater Collector 7",
+        "price": 89.46,
+        "desc": "Rainwater Collector 7 is award-winning.",
+        "cat": "Home & Garden",
+        "qty": 6,
+        "rating": 1.03,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 40647.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Barbecue Grill 5",
+        "price": 1334.45,
+        "desc": "Barbecue Grill 5 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 2,
+        "rating": 3.94,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with burning coal 28491.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Doll 5",
+        "price": 18.49,
+        "desc": "Doll 5 is fun for children.",
+        "cat": "Toys",
+        "qty": 4,
+        "rating": 3.41,
+        "image_link": "Toys/Doll/Firefly doll 53777.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Deodorant 4",
+        "price": 1.87,
+        "desc": "Deodorant 4 is natural and is on sale.",
+        "cat": "Beauty",
+        "qty": 2,
+        "rating": 2.0,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 25281.jpg"
+    },
+    {
+        "id": 66,
+        "name": "Shoes 4",
+        "price": 171.0,
+        "desc": "Shoes 4 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 10,
+        "rating": 3.43,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Action Figure 8",
+        "price": 11.88,
+        "desc": "Action Figure 8 is educational and is on sale.",
+        "cat": "Toys",
+        "qty": 9,
+        "rating": 2.19,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 53777.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Rainwater Collector 8",
+        "price": 56.69,
+        "desc": "Rainwater Collector 8 is award-winning and is on sale",
+        "cat": "Home & Garden",
+        "qty": 5,
+        "rating": 1.76,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 66810.jpg"
+    },
+    {
+        "id": 69,
+        "name": "Action Figure 9",
+        "price": 17.52,
+        "desc": "Action Figure 9 is creative.",
+        "cat": "Toys",
+        "qty": 1,
+        "rating": 4.24,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 53777.jpg"
+    },
+    {
+        "id": 70,
+        "name": "Action Figure 10",
+        "price": 14.16,
+        "desc": "Action Figure 10 is creative.",
+        "cat": "Toys",
+        "qty": 0,
+        "rating": 2.36,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 94736.jpg"
+    },
+    {
+        "id": 71,
+        "name": "Tabletop Game 5",
+        "price": 197.9,
+        "desc": "Tabletop Game 5 is fun for children.",
+        "cat": "Toys",
+        "qty": 1,
+        "rating": 2.1,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 94736.jpg"
+    },
+    {
+        "id": 72,
+        "name": "Mobile Phone 3",
+        "price": 983.75,
+        "desc": "Mobile Phone 3 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 4,
+        "rating": 1.62,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone product 59061.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Television 2",
+        "price": 1963.98,
+        "desc": "Television 2 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 8,
+        "rating": 4.28,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 14327.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Shampoo 5",
+        "price": 22.3,
+        "desc": "Shampoo 5 is natural.",
+        "cat": "Beauty",
+        "qty": 5,
+        "rating": 2.92,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 25281.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Deodorant 5",
+        "price": 4.11,
+        "desc": "Deodorant 5 is natural.",
+        "cat": "Beauty",
+        "qty": 6,
+        "rating": 1.14,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 28122.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Flower Pot 5",
+        "price": 21.21,
+        "desc": "Flower Pot 5 is award-winning.",
+        "cat": "Home & Garden",
+        "qty": 5,
+        "rating": 4.04,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 29459.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Trousers 7",
+        "price": 34.2,
+        "desc": "Trousers 7 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 4,
+        "rating": 4.04,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 28122.jpg"
+    },
+    {
+        "id": 78,
+        "name": "T-shirt 3",
+        "price": 7.94,
+        "desc": "T-shirt 3 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 6,
+        "rating": 4.94,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 48740.jpg"
+    },
+    {
+        "id": 79,
+        "name": "Desktop PC 3",
+        "price": 1480.59,
+        "desc": "Desktop PC 3 is innovative and has a compact design.",
+        "cat": "Electronics",
+        "qty": 0,
+        "rating": 2.55,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 80376.jpg"
+    },
+    {
+        "id": 80,
+        "name": "Deodorant 6",
+        "price": 6.62,
+        "desc": "Deodorant 6 is effective.",
+        "cat": "Beauty",
+        "qty": 9,
+        "rating": 4.97,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 81564.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Deodorant 7",
+        "price": 1.23,
+        "desc": "Deodorant 7 is natural and is on sale.",
+        "cat": "Beauty",
+        "qty": 10,
+        "rating": 3.34,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 52602.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Flower Pot 6",
+        "price": 35.02,
+        "desc": "Flower Pot 6 is durable.",
+        "cat": "Home & Garden",
+        "qty": 2,
+        "rating": 3.25,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Shower Gel 4",
+        "price": 14.15,
+        "desc": "Shower Gel 4 is luxurious.",
+        "cat": "Beauty",
+        "qty": 8,
+        "rating": 1.87,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 81564.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Shoes 5",
+        "price": 117.78,
+        "desc": "Shoes 5 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 1.17,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Doll 6",
+        "price": 1.13,
+        "desc": "Doll 6 is creative and is on sale.",
+        "cat": "Toys",
+        "qty": 1,
+        "rating": 2.9,
+        "image_link": "Toys/Doll/Firefly doll 96862.jpg"
+    },
+    {
+        "id": 86,
+        "name": "Tabletop Game 6",
+        "price": 149.72,
+        "desc": "Tabletop Game 6 is fun for children.",
+        "cat": "Toys",
+        "qty": 2,
+        "rating": 1.79,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 94736.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Television 3",
+        "price": 1602.68,
+        "desc": "Television 3 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 3.22,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 68721.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Flower Pot 7",
+        "price": 8.56,
+        "desc": "Flower Pot 7 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 4,
+        "rating": 2.59,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 29459.jpg"
+    },
+    {
+        "id": 89,
+        "name": "Shower Gel 5",
+        "price": 12.52,
+        "desc": "Shower Gel 5 is luxurious and is on sale.",
+        "cat": "Beauty",
+        "qty": 0,
+        "rating": 3.89,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 25281.jpg"
+    },
+    {
+        "id": 90,
+        "name": "T-shirt 4",
+        "price": 5.77,
+        "desc": "T-shirt 4 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 2.85,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 84494.jpg"
+    },
+    {
+        "id": 91,
+        "name": "Mobile Phone 4",
+        "price": 1238.7,
+        "desc": "Mobile Phone 4 is innovative and has a compact design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 2.03,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 26919.jpg"
+    },
+    {
+        "id": 92,
+        "name": "Tabletop Game 7",
+        "price": 85.54,
+        "desc": "Tabletop Game 7 is educational.",
+        "cat": "Toys",
+        "qty": 10,
+        "rating": 4.31,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 94736.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Rainwater Collector 9",
+        "price": 74.4,
+        "desc": "Rainwater Collector 9 is durable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 0,
+        "rating": 1.12,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 40647.jpg"
+    },
+    {
+        "id": 94,
+        "name": "Tabletop Game 8",
+        "price": 139.49,
+        "desc": "Tabletop Game 8 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 7,
+        "rating": 4.49,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 96862.jpg"
+    },
+    {
+        "id": 95,
+        "name": "Shampoo 6",
+        "price": 9.81,
+        "desc": "Shampoo 6 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 6,
+        "rating": 3.01,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 28122.jpg"
+    },
+    {
+        "id": 96,
+        "name": "Shower Gel 6",
+        "price": 11.29,
+        "desc": "Shower Gel 6 is natural.",
+        "cat": "Beauty",
+        "qty": 5,
+        "rating": 3.53,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 25281.jpg"
+    },
+    {
+        "id": 97,
+        "name": "Tabletop Game 9",
+        "price": 185.76,
+        "desc": "Tabletop Game 9 is creative.",
+        "cat": "Toys",
+        "qty": 6,
+        "rating": 2.16,
+        "image_link": "Toys/Tabletop Game/Firefly strategy board game 50247.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Trousers 8",
+        "price": 64.77,
+        "desc": "Trousers 8 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 2.14,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 48740.jpg"
+    },
+    {
+        "id": 99,
+        "name": "Shower Gel 7",
+        "price": 2.76,
+        "desc": "Shower Gel 7 is luxurious.",
+        "cat": "Beauty",
+        "qty": 7,
+        "rating": 2.38,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 81564.jpg"
+    },
+    {
+        "id": 100,
+        "name": "T-shirt 5",
+        "price": 5.88,
+        "desc": "T-shirt 5 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 3,
+        "rating": 2.6,
+        "image_link": "Clothing/T-shirt/Firefly brown t-shirt clothing product 15315.jpg"
+    },
+    {
+        "id": 101,
+        "name": "Television 4",
+        "price": 1571.73,
+        "desc": "Television 4 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 1,
+        "rating": 2.53,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 69828.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Shoes 6",
+        "price": 159.65,
+        "desc": "Shoes 6 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 3.6,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 52602.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Shoes 7",
+        "price": 46.23,
+        "desc": "Shoes 7 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 4,
+        "rating": 2.76,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Jacket 4",
+        "price": 106.65,
+        "desc": "Jacket 4 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 1.74,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 28122.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Rainwater Collector 10",
+        "price": 62.49,
+        "desc": "Rainwater Collector 10 is award-winning.",
+        "cat": "Home & Garden",
+        "qty": 3,
+        "rating": 1.82,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 6671.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Shampoo 7",
+        "price": 22.15,
+        "desc": "Shampoo 7 is natural.",
+        "cat": "Beauty",
+        "qty": 1,
+        "rating": 3.3,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 52602.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Television 5",
+        "price": 977.27,
+        "desc": "Television 5 is high-end and has a compact design.",
+        "cat": "Electronics",
+        "qty": 10,
+        "rating": 3.08,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 69828.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Shower Gel 8",
+        "price": 6.72,
+        "desc": "Shower Gel 8 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 4,
+        "rating": 3.02,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 81564.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Barbecue Grill 6",
+        "price": 207.03,
+        "desc": "Barbecue Grill 6 is reliable.",
+        "cat": "Home & Garden",
+        "qty": 6,
+        "rating": 2.46,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill 19234.jpg"
+    },
+    {
+        "id": 110,
+        "name": "Shower Gel 9",
+        "price": 13.36,
+        "desc": "Shower Gel 9 is luxurious.",
+        "cat": "Beauty",
+        "qty": 0,
+        "rating": 1.96,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 81564.jpg"
+    },
+    {
+        "id": 111,
+        "name": "Tabletop Game 10",
+        "price": 80.13,
+        "desc": "Tabletop Game 10 is fun for children.",
+        "cat": "Toys",
+        "qty": 7,
+        "rating": 4.92,
+        "image_link": "Toys/Tabletop Game/Firefly strategy board game 50247.jpg"
+    },
+    {
+        "id": 112,
+        "name": "Shampoo 8",
+        "price": 26.21,
+        "desc": "Shampoo 8 is natural.",
+        "cat": "Beauty",
+        "qty": 7,
+        "rating": 3.48,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 81564.jpg"
+    },
+    {
+        "id": 113,
+        "name": "Mobile Phone 5",
+        "price": 861.88,
+        "desc": "Mobile Phone 5 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 4,
+        "rating": 3.51,
+        "image_link": "Electronics/Mobile Phone/Firefly simple image of a mobile phone product with black screen 14327.jpg"
+    },
+    {
+        "id": 114,
+        "name": "Laptop 5",
+        "price": 878.23,
+        "desc": "Laptop 5 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 2.04,
+        "image_link": "Electronics/Laptop/Firefly laptop product 59061.jpg"
+    },
+    {
+        "id": 115,
+        "name": "Shoes 8",
+        "price": 198.12,
+        "desc": "Shoes 8 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 2,
+        "rating": 1.43,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 116,
+        "name": "Flower Pot 8",
+        "price": 18.57,
+        "desc": "Flower Pot 8 is durable.",
+        "cat": "Home & Garden",
+        "qty": 8,
+        "rating": 3.09,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 29459.jpg"
+    },
+    {
+        "id": 117,
+        "name": "Mobile Phone 6",
+        "price": 1920.11,
+        "desc": "Mobile Phone 6 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 2.04,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 70288.jpg"
+    },
+    {
+        "id": 118,
+        "name": "Deodorant 8",
+        "price": 5.4,
+        "desc": "Deodorant 8 is natural.",
+        "cat": "Beauty",
+        "qty": 8,
+        "rating": 1.45,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 81564.jpg"
+    },
+    {
+        "id": 119,
+        "name": "Laptop 6",
+        "price": 1863.78,
+        "desc": "Laptop 6 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 6,
+        "rating": 1.2,
+        "image_link": "Electronics/Laptop/Firefly laptop product 59061.jpg"
+    },
+    {
+        "id": 120,
+        "name": "Barbecue Grill 7",
+        "price": 1135.21,
+        "desc": "Barbecue Grill 7 is reliable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 2,
+        "rating": 2.75,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 40647.jpg"
+    },
+    {
+        "id": 121,
+        "name": "Doll 7",
+        "price": 7.16,
+        "desc": "Doll 7 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 3,
+        "rating": 3.32,
+        "image_link": "Toys/Doll/Firefly doll 96862.jpg"
+    },
+    {
+        "id": 122,
+        "name": "Desktop PC 4",
+        "price": 652.99,
+        "desc": "Desktop PC 4 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 4.77,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 85700.jpg"
+    },
+    {
+        "id": 123,
+        "name": "T-shirt 6",
+        "price": 11.31,
+        "desc": "T-shirt 6 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 2,
+        "rating": 4.38,
+        "image_link": "Clothing/T-shirt/Firefly black t-shirt clothing product 48464.jpg"
+    },
+    {
+        "id": 124,
+        "name": "Desktop PC 5",
+        "price": 2323.0,
+        "desc": "Desktop PC 5 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 2.0,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 34170.jpg"
+    },
+    {
+        "id": 125,
+        "name": "Laptop 7",
+        "price": 1384.4,
+        "desc": "Laptop 7 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 0,
+        "rating": 3.58,
+        "image_link": "Electronics/Laptop/Firefly laptop product 59061.jpg"
+    },
+    {
+        "id": 126,
+        "name": "Doll 8",
+        "price": 18.75,
+        "desc": "Doll 8 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 3,
+        "rating": 1.83,
+        "image_link": "Toys/Doll/Firefly doll 94736.jpg"
+    },
+    {
+        "id": 127,
+        "name": "Laptop 8",
+        "price": 2190.54,
+        "desc": "Laptop 8 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 4.57,
+        "image_link": "Electronics/Laptop/Firefly laptop product 83382.jpg"
+    },
+    {
+        "id": 128,
+        "name": "T-shirt 7",
+        "price": 19.59,
+        "desc": "T-shirt 7 is fashionable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 2.55,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 84494.jpg"
+    },
+    {
+        "id": 129,
+        "name": "Flower Pot 9",
+        "price": 26.18,
+        "desc": "Flower Pot 9 is award-winning and is on sale",
+        "cat": "Home & Garden",
+        "qty": 0,
+        "rating": 2.87,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 130,
+        "name": "Jacket 5",
+        "price": 201.22,
+        "desc": "Jacket 5 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 7,
+        "rating": 4.6,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 28122.jpg"
+    },
+    {
+        "id": 131,
+        "name": "T-shirt 8",
+        "price": 22.5,
+        "desc": "T-shirt 8 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 2.74,
+        "image_link": "Clothing/T-shirt/Firefly black t-shirt clothing product 48464.jpg"
+    },
+    {
+        "id": 132,
+        "name": "T-shirt 9",
+        "price": 15.17,
+        "desc": "T-shirt 9 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 1,
+        "rating": 4.93,
+        "image_link": "Clothing/T-shirt/Firefly black t-shirt clothing product 48464.jpg"
+    },
+    {
+        "id": 133,
+        "name": "Shampoo 9",
+        "price": 17.25,
+        "desc": "Shampoo 9 is effective and is on sale.",
+        "cat": "Beauty",
+        "qty": 2,
+        "rating": 3.47,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 28122.jpg"
+    },
+    {
+        "id": 134,
+        "name": "Desktop PC 6",
+        "price": 1741.82,
+        "desc": "Desktop PC 6 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 3.9,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 85700.jpg"
+    },
+    {
+        "id": 135,
+        "name": "Deodorant 9",
+        "price": 9.58,
+        "desc": "Deodorant 9 is natural.",
+        "cat": "Beauty",
+        "qty": 5,
+        "rating": 3.66,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 25281.jpg"
+    },
+    {
+        "id": 136,
+        "name": "Laptop 9",
+        "price": 1352.68,
+        "desc": "Laptop 9 is high-end and has a compact design.",
+        "cat": "Electronics",
+        "qty": 10,
+        "rating": 3.09,
+        "image_link": "Electronics/Laptop/Firefly laptop product 23942.jpg"
+    },
+    {
+        "id": 137,
+        "name": "Deodorant 10",
+        "price": 5.07,
+        "desc": "Deodorant 10 is luxurious.",
+        "cat": "Beauty",
+        "qty": 2,
+        "rating": 3.47,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 28122.jpg"
+    },
+    {
+        "id": 138,
+        "name": "Shampoo 10",
+        "price": 25.96,
+        "desc": "Shampoo 10 is natural.",
+        "cat": "Beauty",
+        "qty": 4,
+        "rating": 3.43,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 28122.jpg"
+    },
+    {
+        "id": 139,
+        "name": "Trousers 9",
+        "price": 29.04,
+        "desc": "Trousers 9 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 0,
+        "rating": 4.71,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 48740.jpg"
+    },
+    {
+        "id": 140,
+        "name": "Shower Gel 10",
+        "price": 8.8,
+        "desc": "Shower Gel 10 is luxurious.",
+        "cat": "Beauty",
+        "qty": 2,
+        "rating": 4.41,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 28122.jpg"
+    },
+    {
+        "id": 141,
+        "name": "Barbecue Grill 8",
+        "price": 899.89,
+        "desc": "Barbecue Grill 8 is reliable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 2,
+        "rating": 2.75,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill 19234.jpg"
+    },
+    {
+        "id": 142,
+        "name": "Jacket 6",
+        "price": 93.05,
+        "desc": "Jacket 6 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 1,
+        "rating": 2.0,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 52602.jpg"
+    },
+    {
+        "id": 143,
+        "name": "Laptop 10",
+        "price": 903.02,
+        "desc": "Laptop 10 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 1,
+        "rating": 3.52,
+        "image_link": "Electronics/Laptop/Firefly laptop product 23942.jpg"
+    },
+    {
+        "id": 144,
+        "name": "Barbecue Grill 9",
+        "price": 669.3,
+        "desc": "Barbecue Grill 9 is award-winning and is on sale",
+        "cat": "Home & Garden",
+        "qty": 9,
+        "rating": 1.28,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with burning coal 28491.jpg"
+    },
+    {
+        "id": 145,
+        "name": "Flower Pot 10",
+        "price": 18.5,
+        "desc": "Flower Pot 10 is reliable and is on sale",
+        "cat": "Home & Garden",
+        "qty": 6,
+        "rating": 4.48,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 29459.jpg"
+    },
+    {
+        "id": 146,
+        "name": "Doll 9",
+        "price": 2.04,
+        "desc": "Doll 9 is fun for children.",
+        "cat": "Toys",
+        "qty": 3,
+        "rating": 2.39,
+        "image_link": "Toys/Doll/Firefly doll 94736.jpg"
+    },
+    {
+        "id": 147,
+        "name": "Trousers 10",
+        "price": 30.23,
+        "desc": "Trousers 10 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 5,
+        "rating": 1.37,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 28122.jpg"
+    },
+    {
+        "id": 148,
+        "name": "Television 6",
+        "price": 1250.38,
+        "desc": "Television 6 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 8,
+        "rating": 1.37,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 69828.jpg"
+    },
+    {
+        "id": 149,
+        "name": "Mobile Phone 7",
+        "price": 1114.86,
+        "desc": "Mobile Phone 7 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 3,
+        "rating": 3.87,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone product 59061.jpg"
+    },
+    {
+        "id": 150,
+        "name": "Doll 10",
+        "price": 1.31,
+        "desc": "Doll 10 is fun for children and is on sale.",
+        "cat": "Toys",
+        "qty": 0,
+        "rating": 2.08,
+        "image_link": "Toys/Doll/Firefly doll 94736.jpg"
+    },
+    {
+        "id": 151,
+        "name": "Jacket 7",
+        "price": 52.77,
+        "desc": "Jacket 7 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 4,
+        "rating": 4.07,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 52602.jpg"
+    },
+    {
+        "id": 152,
+        "name": "T-shirt 10",
+        "price": 5.28,
+        "desc": "T-shirt 10 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 3,
+        "rating": 4.97,
+        "image_link": "Clothing/T-shirt/Firefly t-shirt clothing product 48740.jpg"
+    },
+    {
+        "id": 153,
+        "name": "Television 7",
+        "price": 1469.06,
+        "desc": "Television 7 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 5,
+        "rating": 4.98,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 68721.jpg"
+    },
+    {
+        "id": 154,
+        "name": "Barbecue Grill 10",
+        "price": 425.92,
+        "desc": "Barbecue Grill 10 is award-winning.",
+        "cat": "Home & Garden",
+        "qty": 7,
+        "rating": 1.21,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill 19234.jpg"
+    },
+    {
+        "id": 155,
+        "name": "Shoes 9",
+        "price": 145.25,
+        "desc": "Shoes 9 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 2,
+        "rating": 1.54,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 52602.jpg"
+    },
+    {
+        "id": 156,
+        "name": "Desktop PC 7",
+        "price": 681.86,
+        "desc": "Desktop PC 7 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 8,
+        "rating": 3.33,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 85700.jpg"
+    },
+    {
+        "id": 157,
+        "name": "Television 8",
+        "price": 704.71,
+        "desc": "Television 8 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 3,
+        "rating": 4.19,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 69828.jpg"
+    },
+    {
+        "id": 158,
+        "name": "Mobile Phone 8",
+        "price": 1575.38,
+        "desc": "Mobile Phone 8 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 4,
+        "rating": 1.58,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone product 59061.jpg"
+    },
+    {
+        "id": 159,
+        "name": "Mobile Phone 9",
+        "price": 580.41,
+        "desc": "Mobile Phone 9 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 2,
+        "rating": 2.75,
+        "image_link": "Electronics/Mobile Phone/Firefly simple image of a mobile phone product with black screen 14327.jpg"
+    },
+    {
+        "id": 160,
+        "name": "Jacket 8",
+        "price": 31.65,
+        "desc": "Jacket 8 is fashionable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 10,
+        "rating": 2.22,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 81564.jpg"
+    },
+    {
+        "id": 161,
+        "name": "Mobile Phone 10",
+        "price": 1184.3,
+        "desc": "Mobile Phone 10 is reliable and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 3.49,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 26919.jpg"
+    },
+    {
+        "id": 162,
+        "name": "Desktop PC 8",
+        "price": 2115.95,
+        "desc": "Desktop PC 8 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 0,
+        "rating": 3.5,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 85700.jpg"
+    },
+    {
+        "id": 163,
+        "name": "Television 9",
+        "price": 1079.78,
+        "desc": "Television 9 is innovative and has a smart design.",
+        "cat": "Electronics",
+        "qty": 10,
+        "rating": 4.15,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 14327.jpg"
+    },
+    {
+        "id": 164,
+        "name": "Shoes 10",
+        "price": 42.55,
+        "desc": "Shoes 10 is comfortable and has a stylish design.",
+        "cat": "Clothing",
+        "qty": 7,
+        "rating": 2.61,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 25281.jpg"
+    },
+    {
+        "id": 165,
+        "name": "Desktop PC 9",
+        "price": 2102.06,
+        "desc": "Desktop PC 9 is innovative and has a compact design.",
+        "cat": "Electronics",
+        "qty": 4,
+        "rating": 1.92,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 80376.jpg"
+    },
+    {
+        "id": 166,
+        "name": "Desktop PC 10",
+        "price": 1723.55,
+        "desc": "Desktop PC 10 is reliable and has a compact design.",
+        "cat": "Electronics",
+        "qty": 9,
+        "rating": 4.92,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer product 80376.jpg"
+    },
+    {
+        "id": 167,
+        "name": "Jacket 9",
+        "price": 99.28,
+        "desc": "Jacket 9 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 10,
+        "rating": 2.49,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 52602.jpg"
+    },
+    {
+        "id": 168,
+        "name": "Jacket 10",
+        "price": 218.67,
+        "desc": "Jacket 10 is comfortable and has a simple design.",
+        "cat": "Clothing",
+        "qty": 8,
+        "rating": 2.74,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 28122.jpg"
+    },
+    {
+        "id": 169,
+        "name": "Television 10",
+        "price": 792.31,
+        "desc": "Television 10 is high-end and has a smart design.",
+        "cat": "Electronics",
+        "qty": 7,
+        "rating": 2.21,
+        "image_link": "Electronics/Television/Firefly simple image of a tv product with black screen 14327.jpg"
+    }
+]
