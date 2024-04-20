@@ -1,3 +1,5 @@
+#No need to run this unless you want to set up new directories with new image files
+#This script creates directories for each category and a subdirectory for each product in their respective category (parent) directory
 import os
 
 categories = ["Electronics", "Clothing", "Home & Garden", "Beauty", "Toys"]
