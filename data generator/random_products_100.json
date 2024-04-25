@@ -1,0 +1,902 @@
+[
+    {
+        "id": 0,
+        "name": "Laptop 1",
+        "price": 840.44,
+        "category": "Electronics",
+        "quantity": 5,
+        "rating": 3.35,
+        "image_link": "Electronics/Laptop/Firefly laptop product 83382.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Tabletop Game 1",
+        "price": 179.62,
+        "category": "Toys",
+        "quantity": 7,
+        "rating": 2.53,
+        "image_link": "Toys/Tabletop Game/Firefly tabletop game 95697.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Action Figure 1",
+        "price": 17.57,
+        "category": "Toys",
+        "quantity": 8,
+        "rating": 2.42,
+        "image_link": "Toys/Action Figure/Firefly fantasy assassin action figure toy 95697.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sunglasses 1",
+        "price": 63.42,
+        "category": "Clothing",
+        "quantity": 8,
+        "rating": 2.18,
+        "image_link": "Clothing/Sunglasses/Firefly sunglasses product 50630.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch 1",
+        "price": 115.95,
+        "category": "Electronics",
+        "quantity": 6,
+        "rating": 2.96,
+        "image_link": "Electronics/Smart Watch/Firefly smartwatch on office desk 71446.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Deodorant 1",
+        "price": 1.95,
+        "category": "Beauty",
+        "quantity": 1,
+        "rating": 1.06,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 43347.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dress 1",
+        "price": 126.04,
+        "category": "Clothing",
+        "quantity": 4,
+        "rating": 3.16,
+        "image_link": "Clothing/Dress/Firefly dress product 51385.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mobile Phone 1",
+        "price": 1407.15,
+        "category": "Electronics",
+        "quantity": 0,
+        "rating": 4.13,
+        "image_link": "Electronics/Mobile Phone/Firefly simple image of a mobile phone product with black screen 14327.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Deodorant 2",
+        "price": 8.66,
+        "category": "Beauty",
+        "quantity": 0,
+        "rating": 4.35,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 80011.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Deodorant 3",
+        "price": 1.08,
+        "category": "Beauty",
+        "quantity": 5,
+        "rating": 2.96,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 36532.jpg"
+    },
+    {
+        "id": 10,
+        "name": "T-shirt 1",
+        "price": 15.59,
+        "category": "Clothing",
+        "quantity": 9,
+        "rating": 1.53,
+        "image_link": "Clothing/T-shirt/Firefly brown t-shirt clothing product 15315.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Trowel 1",
+        "price": 9.71,
+        "category": "Home & Garden",
+        "quantity": 8,
+        "rating": 2.69,
+        "image_link": "Home & Garden/Trowel/Firefly trowel 58033.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Shoes 1",
+        "price": 115.46,
+        "category": "Clothing",
+        "quantity": 2,
+        "rating": 4.64,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 25281.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Action Figure 2",
+        "price": 10.16,
+        "category": "Toys",
+        "quantity": 7,
+        "rating": 2.38,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 94736.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dress 2",
+        "price": 239.99,
+        "category": "Clothing",
+        "quantity": 8,
+        "rating": 1.38,
+        "image_link": "Clothing/Dress/Firefly dress product 93101.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Garden Pool 1",
+        "price": 284.49,
+        "category": "Home & Garden",
+        "quantity": 6,
+        "rating": 1.56,
+        "image_link": "Home & Garden/Garden Pool/Firefly paddling pool product 78429.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Trowel 2",
+        "price": 7.23,
+        "category": "Home & Garden",
+        "quantity": 2,
+        "rating": 2.45,
+        "image_link": "Home & Garden/Trowel/Firefly trowel 28658.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Shampoo 1",
+        "price": 13.63,
+        "category": "Beauty",
+        "quantity": 4,
+        "rating": 2.98,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 21552.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Rainwater Collector 1",
+        "price": 62.59,
+        "category": "Home & Garden",
+        "quantity": 10,
+        "rating": 3.04,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 29459.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Earphones 1",
+        "price": 39.73,
+        "category": "Electronics",
+        "quantity": 7,
+        "rating": 4.16,
+        "image_link": "Electronics/Earphones/Firefly earphones product on wooden desk 82092.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Shower Gel 1",
+        "price": 7.35,
+        "category": "Beauty",
+        "quantity": 10,
+        "rating": 3.71,
+        "image_link": "Beauty/Shower Gel/Firefly neutral shower gel 34739.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Rainwater Collector 2",
+        "price": 83.14,
+        "category": "Home & Garden",
+        "quantity": 10,
+        "rating": 1.19,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 91667.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Tabletop Game 2",
+        "price": 192.39,
+        "category": "Toys",
+        "quantity": 3,
+        "rating": 2.46,
+        "image_link": "Toys/Tabletop Game/Firefly strategy board game 50247.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Shampoo 2",
+        "price": 16.0,
+        "category": "Beauty",
+        "quantity": 7,
+        "rating": 4.46,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 34739.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Rainwater Collector 3",
+        "price": 91.74,
+        "category": "Home & Garden",
+        "quantity": 4,
+        "rating": 3.88,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 40647.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Shower Gel 2",
+        "price": 12.5,
+        "category": "Beauty",
+        "quantity": 0,
+        "rating": 1.39,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 81564.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Shower Gel 3",
+        "price": 4.98,
+        "category": "Beauty",
+        "quantity": 0,
+        "rating": 1.21,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 28122.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Rainwater Collector 4",
+        "price": 87.05,
+        "category": "Home & Garden",
+        "quantity": 1,
+        "rating": 1.97,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 66810.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Shampoo 3",
+        "price": 29.76,
+        "category": "Beauty",
+        "quantity": 10,
+        "rating": 2.06,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 57744.jpg"
+    },
+    {
+        "id": 29,
+        "name": "T-shirt 2",
+        "price": 11.32,
+        "category": "Clothing",
+        "quantity": 0,
+        "rating": 4.0,
+        "image_link": "Clothing/T-shirt/Firefly cool dog wearing a shirt 40113.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Action Figure 3",
+        "price": 3.65,
+        "category": "Toys",
+        "quantity": 4,
+        "rating": 2.56,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 53777.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Doll 1",
+        "price": 15.55,
+        "category": "Toys",
+        "quantity": 0,
+        "rating": 2.07,
+        "image_link": "Toys/Doll/Firefly doll 53777.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Spade 1",
+        "price": 11.98,
+        "category": "Home & Garden",
+        "quantity": 2,
+        "rating": 4.44,
+        "image_link": "Home & Garden/Spade/Firefly gardening spade 51170.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Deodorant 4",
+        "price": 3.51,
+        "category": "Beauty",
+        "quantity": 8,
+        "rating": 4.3,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 95908.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Deck Chair 1",
+        "price": 40.37,
+        "category": "Home & Garden",
+        "quantity": 7,
+        "rating": 4.73,
+        "image_link": "Home & Garden/Deck Chair/Firefly deck chair product 78429.jpg"
+    },
+    {
+        "id": 35,
+        "name": "VR Headset 1",
+        "price": 341.8,
+        "category": "Electronics",
+        "quantity": 1,
+        "rating": 4.82,
+        "image_link": "Electronics/VR Headset/Firefly vr headset product on desk 58851.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Trowel 3",
+        "price": 17.53,
+        "category": "Home & Garden",
+        "quantity": 1,
+        "rating": 4.38,
+        "image_link": "Home & Garden/Trowel/Firefly trowel 90296.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Barbecue Grill 1",
+        "price": 1468.1,
+        "category": "Home & Garden",
+        "quantity": 8,
+        "rating": 3.63,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 29459.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Earphones 2",
+        "price": 33.59,
+        "category": "Electronics",
+        "quantity": 1,
+        "rating": 4.91,
+        "image_link": "Electronics/Earphones/Firefly earbuds product on wooden desk 87841.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Shampoo 4",
+        "price": 7.72,
+        "category": "Beauty",
+        "quantity": 0,
+        "rating": 4.11,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 97786.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Deodorant 5",
+        "price": 3.39,
+        "category": "Beauty",
+        "quantity": 6,
+        "rating": 1.5,
+        "image_link": "Beauty/Deodorant/Firefly neutral deodorant 6541.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Desktop PC 1",
+        "price": 1228.64,
+        "category": "Electronics",
+        "quantity": 3,
+        "rating": 2.06,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer case only product 87841.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Keyboard 1",
+        "price": 60.84,
+        "category": "Electronics",
+        "quantity": 6,
+        "rating": 2.49,
+        "image_link": "Electronics/Keyboard/Firefly keyboard product on office desk 48989.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Shoes 2",
+        "price": 107.16,
+        "category": "Clothing",
+        "quantity": 6,
+        "rating": 3.82,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 42162.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Mobile Phone 2",
+        "price": 969.3,
+        "category": "Electronics",
+        "quantity": 3,
+        "rating": 2.61,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 48989.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Spade 2",
+        "price": 12.44,
+        "category": "Home & Garden",
+        "quantity": 2,
+        "rating": 3.96,
+        "image_link": "Home & Garden/Spade/Firefly gardening spade 98322.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Flower Pot 1",
+        "price": 37.5,
+        "category": "Home & Garden",
+        "quantity": 7,
+        "rating": 4.66,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 66810.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Socks 1",
+        "price": 24.81,
+        "category": "Clothing",
+        "quantity": 10,
+        "rating": 3.37,
+        "image_link": "Clothing/Socks/Firefly socks product 42162.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Shampoo 5",
+        "price": 23.01,
+        "category": "Beauty",
+        "quantity": 7,
+        "rating": 4.66,
+        "image_link": "Beauty/Shampoo/Firefly neutral shampoo 47539.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Action Figure 4",
+        "price": 5.9,
+        "category": "Toys",
+        "quantity": 8,
+        "rating": 4.53,
+        "image_link": "Toys/Action Figure/Firefly fantasy sorcerer action figure toy 94736.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Doll 2",
+        "price": 2.83,
+        "category": "Toys",
+        "quantity": 10,
+        "rating": 3.9,
+        "image_link": "Toys/Doll/Firefly childrens doll 95697.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Garden Pool 2",
+        "price": 388.58,
+        "category": "Home & Garden",
+        "quantity": 1,
+        "rating": 3.98,
+        "image_link": "Home & Garden/Garden Pool/Firefly paddling pool product 90955.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Belt 1",
+        "price": 41.58,
+        "category": "Clothing",
+        "quantity": 4,
+        "rating": 3.4,
+        "image_link": "Clothing/Belt/Firefly belt 47539.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Mobile Phone 3",
+        "price": 939.04,
+        "category": "Electronics",
+        "quantity": 4,
+        "rating": 2.21,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 70288.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Hose 1",
+        "price": 19.35,
+        "category": "Home & Garden",
+        "quantity": 10,
+        "rating": 2.55,
+        "image_link": "Home & Garden/Hose/Firefly garden hose 32311.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Doll 3",
+        "price": 5.42,
+        "category": "Toys",
+        "quantity": 5,
+        "rating": 2.07,
+        "image_link": "Toys/Doll/Firefly doll 94736.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Trousers 1",
+        "price": 73.41,
+        "category": "Clothing",
+        "quantity": 2,
+        "rating": 3.51,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 52602.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Shoes 3",
+        "price": 79.11,
+        "category": "Clothing",
+        "quantity": 3,
+        "rating": 1.77,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 28122.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Hose 2",
+        "price": 16.7,
+        "category": "Home & Garden",
+        "quantity": 7,
+        "rating": 1.86,
+        "image_link": "Home & Garden/Hose/Firefly garden hose 48845.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Shoes 4",
+        "price": 42.1,
+        "category": "Clothing",
+        "quantity": 1,
+        "rating": 1.33,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 81564.jpg"
+    },
+    {
+        "id": 60,
+        "name": "T-shirt 3",
+        "price": 8.11,
+        "category": "Clothing",
+        "quantity": 9,
+        "rating": 4.21,
+        "image_link": "Clothing/T-shirt/Firefly black t-shirt clothing product 48464.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Action Figure 5",
+        "price": 11.12,
+        "category": "Toys",
+        "quantity": 9,
+        "rating": 3.47,
+        "image_link": "Toys/Action Figure/Firefly fantasy warrior action figure toy 81380.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Doll 4",
+        "price": 4.89,
+        "category": "Toys",
+        "quantity": 9,
+        "rating": 2.91,
+        "image_link": "Toys/Doll/Firefly doll 81380.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Ring 1",
+        "price": 143.92,
+        "category": "Clothing",
+        "quantity": 8,
+        "rating": 2.88,
+        "image_link": "Clothing/Ring/Firefly ring product 42162.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Dress 3",
+        "price": 69.76,
+        "category": "Clothing",
+        "quantity": 3,
+        "rating": 1.02,
+        "image_link": "Clothing/Dress/Firefly dress product item only 81805.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Shower Gel 4",
+        "price": 8.14,
+        "category": "Beauty",
+        "quantity": 4,
+        "rating": 4.11,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 25281.jpg"
+    },
+    {
+        "id": 66,
+        "name": "Socks 2",
+        "price": 19.87,
+        "category": "Clothing",
+        "quantity": 6,
+        "rating": 3.96,
+        "image_link": "Clothing/Socks/Firefly multipack black socks product 56238.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Ring 2",
+        "price": 141.15,
+        "category": "Clothing",
+        "quantity": 10,
+        "rating": 4.31,
+        "image_link": "Clothing/Ring/Firefly ring product 20505.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Belt 2",
+        "price": 49.79,
+        "category": "Clothing",
+        "quantity": 7,
+        "rating": 3.84,
+        "image_link": "Clothing/Belt/Firefly belt 88749.jpg"
+    },
+    {
+        "id": 69,
+        "name": "Desktop PC 2",
+        "price": 1895.96,
+        "category": "Electronics",
+        "quantity": 1,
+        "rating": 4.71,
+        "image_link": "Electronics/Desktop PC/Firefly desktop computer case only product 40113.jpg"
+    },
+    {
+        "id": 70,
+        "name": "Lawn mower 1",
+        "price": 193.71,
+        "category": "Home & Garden",
+        "quantity": 5,
+        "rating": 3.17,
+        "image_link": "Home & Garden/Lawn mower/Firefly lawn mower on grass 69588.jpg"
+    },
+    {
+        "id": 71,
+        "name": "Trousers 2",
+        "price": 54.56,
+        "category": "Clothing",
+        "quantity": 0,
+        "rating": 1.68,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 81564.jpg"
+    },
+    {
+        "id": 72,
+        "name": "Hat 1",
+        "price": 59.86,
+        "category": "Clothing",
+        "quantity": 6,
+        "rating": 3.75,
+        "image_link": "Clothing/Hat/Firefly hat product 20505.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Hat 2",
+        "price": 16.98,
+        "category": "Clothing",
+        "quantity": 10,
+        "rating": 4.95,
+        "image_link": "Clothing/Hat/Firefly hat product 44098.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Tablet 1",
+        "price": 241.37,
+        "category": "Electronics",
+        "quantity": 1,
+        "rating": 1.82,
+        "image_link": "Electronics/Tablet/Firefly tablet product on office desk 47048.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Tabletop Game 3",
+        "price": 69.5,
+        "category": "Toys",
+        "quantity": 5,
+        "rating": 1.61,
+        "image_link": "Toys/Tabletop Game/Firefly fantasy roleplaying board game 94736.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Shower Gel 5",
+        "price": 13.56,
+        "category": "Beauty",
+        "quantity": 6,
+        "rating": 4.36,
+        "image_link": "Beauty/Shower Gel/Firefly shower gel 52602.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Lawn mower 2",
+        "price": 85.44,
+        "category": "Home & Garden",
+        "quantity": 10,
+        "rating": 1.2,
+        "image_link": "Home & Garden/Lawn mower/Firefly lawn mower on grass 67801.jpg"
+    },
+    {
+        "id": 78,
+        "name": "Jacket 1",
+        "price": 35.04,
+        "category": "Clothing",
+        "quantity": 9,
+        "rating": 1.97,
+        "image_link": "Clothing/Jacket/Firefly jacket clothing product 52602.jpg"
+    },
+    {
+        "id": 79,
+        "name": "Deck Chair 2",
+        "price": 44.86,
+        "category": "Home & Garden",
+        "quantity": 3,
+        "rating": 2.45,
+        "image_link": "Home & Garden/Deck Chair/Firefly deck chair product 39616.jpg"
+    },
+    {
+        "id": 80,
+        "name": "Monitor 1",
+        "price": 209.86,
+        "category": "Electronics",
+        "quantity": 2,
+        "rating": 1.34,
+        "image_link": "Electronics/Monitor/Firefly desktop computer monitor 12345.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Deck Chair 3",
+        "price": 55.97,
+        "category": "Home & Garden",
+        "quantity": 6,
+        "rating": 4.29,
+        "image_link": "Home & Garden/Deck Chair/Firefly deck chair product 90955.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Doll 5",
+        "price": 7.72,
+        "category": "Toys",
+        "quantity": 4,
+        "rating": 4.1,
+        "image_link": "Toys/Doll/Firefly doll 96862.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Hose 3",
+        "price": 8.11,
+        "category": "Home & Garden",
+        "quantity": 0,
+        "rating": 4.91,
+        "image_link": "Home & Garden/Hose/Firefly garden hose product 45612.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Barbecue Grill 2",
+        "price": 1394.81,
+        "category": "Home & Garden",
+        "quantity": 2,
+        "rating": 3.17,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with steak, vegetables and sauce on white background 40647.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Hat 3",
+        "price": 24.57,
+        "category": "Clothing",
+        "quantity": 8,
+        "rating": 4.29,
+        "image_link": "Clothing/Hat/Firefly hat product 45320.jpg"
+    },
+    {
+        "id": 86,
+        "name": "Shoes 5",
+        "price": 81.79,
+        "category": "Clothing",
+        "quantity": 0,
+        "rating": 1.07,
+        "image_link": "Clothing/Shoes/Firefly shoes clothing product 52602.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Monitor 2",
+        "price": 167.06,
+        "category": "Electronics",
+        "quantity": 3,
+        "rating": 4.38,
+        "image_link": "Electronics/Monitor/Firefly desktop computer monitor 47539.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Laptop 2",
+        "price": 1542.83,
+        "category": "Electronics",
+        "quantity": 6,
+        "rating": 4.25,
+        "image_link": "Electronics/Laptop/Firefly laptop product 23942.jpg"
+    },
+    {
+        "id": 89,
+        "name": "Earphones 3",
+        "price": 44.27,
+        "category": "Electronics",
+        "quantity": 10,
+        "rating": 3.43,
+        "image_link": "Electronics/Earphones/Firefly earphones product on wooden desk 87841.jpg"
+    },
+    {
+        "id": 90,
+        "name": "Barbecue Grill 3",
+        "price": 787.34,
+        "category": "Home & Garden",
+        "quantity": 0,
+        "rating": 3.35,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill product 59079.jpg"
+    },
+    {
+        "id": 91,
+        "name": "Rainwater Collector 5",
+        "price": 80.65,
+        "category": "Home & Garden",
+        "quantity": 8,
+        "rating": 4.52,
+        "image_link": "Home & Garden/Rainwater Collector/Firefly rainwater collector tank 6671.jpg"
+    },
+    {
+        "id": 92,
+        "name": "Sunglasses 2",
+        "price": 156.23,
+        "category": "Clothing",
+        "quantity": 4,
+        "rating": 1.66,
+        "image_link": "Clothing/Sunglasses/Firefly cool dog wearing sunglasses 78591.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Trowel 4",
+        "price": 7.11,
+        "category": "Home & Garden",
+        "quantity": 4,
+        "rating": 2.29,
+        "image_link": "Home & Garden/Trowel/Firefly trowel 3470.jpg"
+    },
+    {
+        "id": 94,
+        "name": "Trousers 3",
+        "price": 17.14,
+        "category": "Clothing",
+        "quantity": 10,
+        "rating": 2.89,
+        "image_link": "Clothing/Trousers/Firefly trousers clothing product 84379.jpg"
+    },
+    {
+        "id": 95,
+        "name": "Tabletop Game 4",
+        "price": 72.13,
+        "category": "Toys",
+        "quantity": 0,
+        "rating": 1.04,
+        "image_link": "Toys/Tabletop Game/Firefly board game with figures and cards 79634.jpg"
+    },
+    {
+        "id": 96,
+        "name": "Deck Chair 4",
+        "price": 72.82,
+        "category": "Home & Garden",
+        "quantity": 7,
+        "rating": 2.52,
+        "image_link": "Home & Garden/Deck Chair/Firefly deck chair product 223.jpg"
+    },
+    {
+        "id": 97,
+        "name": "Mobile Phone 4",
+        "price": 1097.29,
+        "category": "Electronics",
+        "quantity": 8,
+        "rating": 3.92,
+        "image_link": "Electronics/Mobile Phone/Firefly mobile phone 26919.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Flower Pot 2",
+        "price": 37.7,
+        "category": "Home & Garden",
+        "quantity": 8,
+        "rating": 2.32,
+        "image_link": "Home & Garden/Flower Pot/Firefly flower pot 6671.jpg"
+    },
+    {
+        "id": 99,
+        "name": "Barbecue Grill 4",
+        "price": 1431.37,
+        "category": "Home & Garden",
+        "quantity": 8,
+        "rating": 3.68,
+        "image_link": "Home & Garden/Barbecue Grill/Firefly barbecue grill with burning coal 28491.jpg"
+    }
+]
